@@ -5,4 +5,4 @@
 To do: 
 - **Optimize for higher resolutions and smaller cells**
 - **GUI to control dimensions, tick rate and patterns**
-- **Colors**
+- **Pre-defined patterns**
