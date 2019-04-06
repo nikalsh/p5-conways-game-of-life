@@ -9,4 +9,5 @@ To do:
 
 *Preview*:
 
-![Conway's Game of Life](https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif "Preview")[]()
+[![](https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif)](#)
+<a href="#"><img src="https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif" /></a>
