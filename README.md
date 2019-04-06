@@ -10,3 +10,5 @@ To do:
 *Preview*:
 
 [![](https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif)](#)
+
+[GitHub Logo](https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif))
