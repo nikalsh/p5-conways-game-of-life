@@ -8,4 +8,5 @@ To do:
 - **Pre-defined patterns**
 
 *Preview*:
+
 ![Conway's Game of Life](https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif "Preview")
