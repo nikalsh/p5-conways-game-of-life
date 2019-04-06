@@ -6,3 +6,6 @@ To do:
 - **Optimize for higher resolutions and smaller cells**
 - **GUI to control dimensions, tick rate and patterns**
 - **Pre-defined patterns**
+
+*Preview*:
+![Conway's Game of Life](https://github.com/nikalsh/p5-conways-game-of-life/raw/master/demo.gif "Preview")
